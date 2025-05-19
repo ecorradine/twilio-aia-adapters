@@ -115,5 +115,43 @@
         "ttsProvider": "Google",
         "voice": "yue-HK-Standard-D",
         "welcomeGreeting": "你好！我係人工智能助理。"
+    },
+    "ro-RO-w": {
+        "friendlyName": "Romanian Woman",
+        "transcriptionProvider": "deepgram",
+        "speechModel":"nova-2-general",
+        "transcriptionLanguage": "ro",
+        "ttsLanguage": "ro-RO",
+        "ttsProvider": "Elevenlabs",
+        "voice": "urzoE6aZYmSRdFQ6215h",
+        "welcomeGreeting": "Mulțumim că ați sunat la VoxMAG. Cu ce vă pot ajuta?"
+    },
+    "ro-RO-m": {
+        "friendlyName": "Romanian Man",
+        "transcriptionProvider": "deepgram",
+        "speechModel":"nova-2-general",
+        "transcriptionLanguage": "ro",
+        "ttsLanguage": "ro-RO",
+        "ttsProvider": "Elevenlabs",
+        "voice": "0BcDz9UPwL3MpsnTeUlO",
+        "welcomeGreeting": "Mulțumim că ați sunat la VoxMAG. Cu ce vă pot ajuta?"
+    },
+    "fr-FR-w": {
+        "friendlyName": "French Woman",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "fr",
+        "ttsLanguage": "fr-FR",
+        "ttsProvider": "Elevenlabs",
+        "voice": "uFA9UGUhpwqGjVhz3lA2",
+        "welcomeGreeting": "Bonjour, je suis Owlie, l'assistant IA de la boutique Owl Shoes. Comment puis-je vous aider ?"
+    },
+    "fr-FR-m": {
+        "friendlyName": "French Man",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "fr",
+        "ttsLanguage": "fr-FR",
+        "ttsProvider": "Elevenlabs",
+        "voice": "xO2Q4ARMEd4BI2sGDH9c",
+        "welcomeGreeting": "Bonjour, je suis Owlie, l'assistant IA de la boutique Owl Shoes. Comment puis-je vous aider ?"
     }
 }
